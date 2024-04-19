@@ -9,6 +9,9 @@ Universidad Internacional de Valencia*
 Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
+Inicio de la Actividad Práctica 1: 12/marzo(2024)
+Alumno: Alexandra Bega
+
 ## Descripción del contenido
 
 Carpetas:
